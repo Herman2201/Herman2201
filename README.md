@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on with Elon Musk and Apple.
 - 📫 How to reach me by stars :D
 
-<!---
-Herman2201/Herman2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Herman22&theme=dark&show_icons=true)
+
