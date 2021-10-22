@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on with Elon Musk and Apple.
 - 📫 How to reach me by stars :D
 
-<center>![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Herman2201&theme=dark&show_icons=true)</center>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Herman2201&theme=dark&show_icons=true)
 
