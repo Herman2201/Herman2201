@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Herman2201
+- 👋 Hi, I’m Herman
 - 👀 I’m interested in gaining new knowledge.
 - 🌱 I’m currently learning at the Kharkov Polytechnic Institute.
 - 💞️ I’m looking to collaborate on with Elon Musk and Apple.
